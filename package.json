@@ -1,5 +1,5 @@
 {
-  "name": "face-info-llm",
+  "name": "face-info-LLM",
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
